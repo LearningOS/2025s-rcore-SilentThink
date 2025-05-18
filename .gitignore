@@ -22,3 +22,8 @@ pushall.sh
 
 user/
 ci-user/
+
+qemu-7.0.0/
+
+new/
+.vscode/
